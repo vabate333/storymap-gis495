@@ -9,7 +9,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 
 ## Live links (replace with your own)
 - Leaflet Map https://mdgaines.github.io/leaflet-storymap-nr491/
-
+- My Map link = https://vabate333.github.io/storymap-gis495/
 ## Create Your Own
 - Follow instructions in storymap.ipynb
 - Based on tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
