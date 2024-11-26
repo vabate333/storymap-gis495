@@ -1,6 +1,6 @@
 Setting,Customize,Hints
 Storymap Info,,"For help, see tutorial in [HandsOnDataViz.org](https://handsondataviz.org/leaflet-storymaps-with-google-sheets.html)"
-"NC Counties ranked by POC, Income, and Health Outcome",,
+Storymap Title ,"NC Counties ranked by POC, Income, and Health Outcome",
 Storymap Logo,media/ncsu_logo.jpg,Path to a logo image
 Google Analytics Tracking ID,,Sample format: UA-5488840-29
 Map Settings,,
